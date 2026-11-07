@@ -1,8 +1,17 @@
 # Mohammed Bahari — Portfolio développeur full stack
 
+
 Portfolio personnel présentant mon profil, mes compétences, mes projets et mon parcours. Interface en français, thème sombre, animations et mise en page adaptée aux mobiles.
 
+
+## Présentation vidéo
+
+Découvrez le portfolio en action : navigation, animations et présentation du parcours. Vidéo avec son · 1 min 35.
+
+https://github.com/user-attachments/assets/9f6ab8d5-6d15-4de0-8d46-bc9bc7657438
+
 ## Contenu
+
 
 - Profil et expérience chez MAGRIBACHE.
 - Compétences en développement web, logiciel et bases de données.
@@ -11,15 +20,21 @@ Portfolio personnel présentant mon profil, mes compétences, mes projets et mon
 - [CV téléchargeable](assets/Mohammed-Bahari-CV.pdf).
 - Liens vers GitHub et LinkedIn.
 
+
 ## Technologies du site
+
 
 Le portfolio est réalisé en **HTML, CSS et JavaScript natif**, sans dépendance à installer ni étape de compilation. Les technologies présentées dans la rubrique compétences ne constituent pas nécessairement les technologies utilisées pour construire ce site.
 
+
 ## Consulter en local
+
 
 Télécharger le dépôt, extraire les fichiers et ouvrir `index.html` dans un navigateur récent. Conserver les fichiers et dossiers ensemble pour charger les styles, les interactions, la photo et le CV.
 
+
 ## Organisation
+
 
 ```text
 index.html                       Page principale
@@ -29,10 +44,15 @@ assets/portrait.jpg              Photo de profil
 assets/Mohammed-Bahari-CV.pdf     Curriculum vitæ
 ```
 
+
 Les animations peuvent être mises en pause depuis la page. Le site prend également en compte la préférence de réduction des animations du navigateur.
+
 
 ## Auteur
 
+
 **Mohammed Bahari** · Oujda, Maroc
 
+
 [GitHub](https://github.com/BAHARI111) · [LinkedIn](https://www.linkedin.com/in/bahari-mohammed-3a97b4407/)
+

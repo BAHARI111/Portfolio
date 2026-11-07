@@ -1,54 +1,38 @@
-# Mohammed Bahari — Portfolio Power BI
+# Mohammed Bahari — Portfolio développeur full stack
 
-Bienvenue sur mon portfolio. Je rassemble ici mes projets d’analyse de données et de création de tableaux de bord avec **Power BI**, **Power Query** et **DAX**.
+Portfolio personnel présentant mon profil, mes compétences, mes projets et mon parcours. Interface en français, thème sombre, animations et mise en page adaptée aux mobiles.
 
-Mes projets portent sur la performance financière et commerciale : préparer les données, construire un modèle cohérent et présenter des indicateurs utiles à la prise de décision.
+## Contenu
 
-## Projets
+- Profil et expérience chez MAGRIBACHE.
+- Compétences en développement web, logiciel et bases de données.
+- Présentation des projets de site institutionnel et de plateforme CRM/ERP.
+- Parcours et formation à l’École Supérieure de Technologie d’Oujda.
+- [CV téléchargeable](assets/Mohammed-Bahari-CV.pdf).
+- Liens vers GitHub et LinkedIn.
 
-### 1. Financial Performance Dashboard
+## Technologies du site
 
-Un tableau de bord financier pour comparer les données **réelles (Actual)**, le **budget (Budget)** et les **prévisions (Forecast)**.
+Le portfolio est réalisé en **HTML, CSS et JavaScript natif**, sans dépendance à installer ni étape de compilation. Les technologies présentées dans la rubrique compétences ne constituent pas nécessairement les technologies utilisées pour construire ce site.
 
-- Préparation et nettoyage des données avec Power Query.
-- Modélisation en étoile autour des dimensions calendrier, régions et départements.
-- Mesures DAX : totaux, cumul et comparaison budget/prévisions.
-- Analyse des tendances, des régions, des départements et des éléments de coût.
-- Indicateurs de performance et filtres temporels interactifs.
+## Consulter en local
 
-**Objectif :** suivre la performance financière et repérer les écarts entre les valeurs prévues et réalisées.
+Télécharger le dépôt, extraire les fichiers et ouvrir `index.html` dans un navigateur récent. Conserver les fichiers et dossiers ensemble pour charger les styles, les interactions, la photo et le CV.
 
-[Consulter le projet financier →](https://github.com/BAHARI111/powerbi-financial-dashboard)
+## Organisation
 
-### 2. Sales Dashboard Power BI
+```text
+index.html                       Page principale
+index.css                        Styles et mise en page responsive
+index.js                         Animations et interactions
+assets/portrait.jpg              Photo de profil
+assets/Mohammed-Bahari-CV.pdf     Curriculum vitæ
+```
 
-Un tableau de bord interactif consacré à l’analyse des ventes, des produits, des catégories et de l’activité des clients.
+Les animations peuvent être mises en pause depuis la page. Le site prend également en compte la préférence de réduction des animations du navigateur.
 
-- Cartes d’indicateurs clés de performance.
-- Analyse des ventes par produit et répartition par catégorie.
-- Filtres par pays et par date.
-- Graphiques dynamiques pour explorer la performance commerciale.
-- Modélisation des données et calculs DAX.
+## Auteur
 
-**Objectif :** transformer les données de vente en informations utiles au suivi de l’activité et à la prise de décision.
+**Mohammed Bahari** · Oujda, Maroc
 
-[Consulter le projet commercial →](https://github.com/BAHARI111/Sales-Dashboard-Power-BI)
-
-## Compétences mises en pratique
-
-| Domaine | Applications dans les projets |
-| --- | --- |
-| Power BI | Conception de tableaux de bord et visualisations interactives |
-| Power Query | Chargement, transformation et nettoyage des données |
-| Modélisation | Relations entre tables de faits et dimensions, schéma en étoile |
-| DAX | Mesures, indicateurs, calculs cumulés et comparaisons |
-| Analyse financière | Suivi du réel, du budget et des prévisions |
-| Analyse commerciale | Exploration des ventes par produit, catégorie, pays et période |
-
-## Explorer les projets
-
-Chaque lien ci-dessus mène au dépôt du projet, avec sa documentation et les fichiers disponibles. Consulter son README pour connaître les fonctionnalités et les outils utilisés.
-
-## Profil GitHub
-
-[Retrouver Mohammed Bahari sur GitHub — @BAHARI111](https://github.com/BAHARI111)
+[GitHub](https://github.com/BAHARI111) · [LinkedIn](https://www.linkedin.com/in/bahari-mohammed-3a97b4407/)
